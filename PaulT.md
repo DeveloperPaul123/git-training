@@ -1,3 +1,3 @@
 # Paul completed his training!
 
-:firework:
+:fireworks:
